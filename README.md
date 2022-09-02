@@ -1,6 +1,6 @@
 # WDB109_Puppeteer
 
-[WEB+DB PRESS Vol.109](https://gihyo.jp/magazine/wdpress/archive/2019/Vol109) 特集「速習Puppeteer──ヘッドレスChromeでテスト＆スクレイピング」サンプルコード
+[WEB+DB PRESS Vol.109](https://gihyo.jp/magazine/wdpress/archive/2019/vol109) 特集「速習Puppeteer──ヘッドレスChromeでテスト＆スクレイピング」サンプルコード
 
 ## 特集目次
 
@@ -34,7 +34,7 @@ http://opensource.org/licenses/mit-license.php
 
 ## お問い合わせ
 
-不具合があった場合は[本書Webページ](https://gihyo.jp/magazine/wdpress/archive/2019/Vol109)よりお問い合わせをお願いいたします。
+不具合があった場合は[本書Webページ](https://gihyo.jp/magazine/wdpress/archive/2019/vol109)よりお問い合わせをお願いいたします。
 
 ## ご注意
 
